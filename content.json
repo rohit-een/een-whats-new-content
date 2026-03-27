@@ -16,8 +16,7 @@
       "cta": {
         "primary": {
           "label": "Learn more",
-          "url": "https://www.een.com",
-          "icon": "$next"
+          "url": "https://www.een.com"
         }
       }
     },
@@ -42,6 +41,19 @@
         "New search attributes: color, direction, speed",
         "Faster results with improved indexing"
       ]
+    },
+    {
+      "id": "last",
+      "type": "last",
+      "previousReleases": {
+        "monthLabel": "February 2026",
+        "url": "/releases",
+        "bullets": [
+          "Automations redesigned",
+          "No default Video Search",
+          "New Video Search attributes"
+        ]
+      }
     }
   ]
 }

@@ -1,0 +1,75 @@
+{
+  "releases": [
+    {
+      "version": "2026-03",
+      "label": "March 2026",
+      "slides": [
+        {
+          "id": "entra-id",
+          "type": "feature",
+          "image": "http://127.0.0.1:5003/slide-entra-id.svg",
+          "videoUrl": null,
+          "title": "Microsoft Entra ID Login Support",
+          "bullets": [
+            "SSO redirect support for enterprise accounts",
+            "Multi-app support across EEN products",
+            "Simplified admin user provisioning"
+          ],
+          "cta": {
+            "primary": { "label": "Learn more", "url": "https://www.een.com" }
+          }
+        },
+        {
+          "id": "improved-roi",
+          "type": "feature",
+          "image": "http://127.0.0.1:5003/slide-roi.svg",
+          "videoUrl": null,
+          "title": "Improved ROI Analytics",
+          "bullets": [
+            "New dashboard with real-time ROI metrics",
+            "Export reports in PDF and CSV formats"
+          ]
+        },
+        {
+          "id": "video-search",
+          "type": "feature",
+          "image": "http://127.0.0.1:5003/slide-video-search.svg",
+          "videoUrl": null,
+          "title": "Enhanced Video Search",
+          "bullets": [
+            "New search attributes: color, direction, speed",
+            "Faster results with improved indexing"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "2026-02",
+      "label": "February 2026",
+      "slides": [
+        {
+          "id": "automations-redesign",
+          "type": "feature",
+          "image": "http://127.0.0.1:5003/slide-roi.svg",
+          "videoUrl": null,
+          "title": "Automations Redesigned",
+          "bullets": [
+            "New drag-and-drop rule builder",
+            "Improved trigger conditions"
+          ]
+        },
+        {
+          "id": "no-default-video-search",
+          "type": "feature",
+          "image": "http://127.0.0.1:5003/slide-video-search.svg",
+          "videoUrl": null,
+          "title": "No Default Video Search",
+          "bullets": [
+            "Search results now require explicit intent",
+            "Faster page load on first visit"
+          ]
+        }
+      ]
+    }
+  ]
+}
