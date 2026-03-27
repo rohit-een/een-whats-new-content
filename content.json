@@ -5,7 +5,7 @@
     {
       "id": "entra-id",
       "type": "feature",
-      "image": "https://i.imgur.com/placeholder.png",
+      "image": "http://127.0.0.1:5003/slide-entra-id.svg",
       "videoUrl": null,
       "title": "Microsoft Entra ID Login Support",
       "bullets": [
@@ -24,7 +24,7 @@
     {
       "id": "improved-roi",
       "type": "feature",
-      "image": "https://i.imgur.com/placeholder.png",
+      "image": "http://127.0.0.1:5003/slide-roi.svg",
       "videoUrl": null,
       "title": "Improved ROI Analytics",
       "bullets": [
@@ -35,7 +35,7 @@
     {
       "id": "video-search",
       "type": "feature",
-      "image": "https://i.imgur.com/placeholder.png",
+      "image": "http://127.0.0.1:5003/slide-video-search.svg",
       "videoUrl": null,
       "title": "Enhanced Video Search",
       "bullets": [
