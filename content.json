@@ -1,0 +1,47 @@
+{
+  "version": "2026-03",
+  "pitchText": "See the latest features",
+  "slides": [
+    {
+      "id": "entra-id",
+      "type": "feature",
+      "image": "https://i.imgur.com/placeholder.png",
+      "videoUrl": null,
+      "title": "Microsoft Entra ID Login Support",
+      "bullets": [
+        "SSO redirect support for enterprise accounts",
+        "Multi-app support across EEN products",
+        "Simplified admin user provisioning"
+      ],
+      "cta": {
+        "primary": {
+          "label": "Learn more",
+          "url": "https://www.een.com",
+          "icon": "$next"
+        }
+      }
+    },
+    {
+      "id": "improved-roi",
+      "type": "feature",
+      "image": "https://i.imgur.com/placeholder.png",
+      "videoUrl": null,
+      "title": "Improved ROI Analytics",
+      "bullets": [
+        "New dashboard with real-time ROI metrics",
+        "Export reports in PDF and CSV formats"
+      ]
+    },
+    {
+      "id": "video-search",
+      "type": "feature",
+      "image": "https://i.imgur.com/placeholder.png",
+      "videoUrl": null,
+      "title": "Enhanced Video Search",
+      "bullets": [
+        "New search attributes: color, direction, speed",
+        "Faster results with improved indexing"
+      ]
+    }
+  ]
+}
