@@ -16,7 +16,8 @@
             "Simplified admin user provisioning"
           ],
           "cta": {
-            "primary": { "label": "Learn more", "url": "https://www.een.com" }
+            "primary": { "label": "Learn more", "url": "https://www.een.com" },
+            "secondary": { "label": "Go to Admin", "url": "/admin" }
           }
         },
         {
@@ -28,7 +29,10 @@
           "bullets": [
             "New dashboard with real-time ROI metrics",
             "Export reports in PDF and CSV formats"
-          ]
+          ],
+          "cta": {
+            "primary": { "label": "Open Dashboard", "url": "/dashboard" }
+          }
         },
         {
           "id": "video-search",
@@ -39,7 +43,11 @@
           "bullets": [
             "New search attributes: color, direction, speed",
             "Faster results with improved indexing"
-          ]
+          ],
+          "cta": {
+            "primary": { "label": "Try Video Search", "url": "/videoSearch" },
+            "secondary": { "label": "Open in History Browser", "url": "/history?ids=:cameraId" }
+          }
         }
       ]
     },
@@ -56,7 +64,10 @@
           "bullets": [
             "New drag-and-drop rule builder",
             "Improved trigger conditions"
-          ]
+          ],
+          "cta": {
+            "primary": { "label": "Open Automations", "url": "/automations" }
+          }
         },
         {
           "id": "no-default-video-search",
@@ -67,7 +78,10 @@
           "bullets": [
             "Search results now require explicit intent",
             "Faster page load on first visit"
-          ]
+          ],
+          "cta": {
+            "primary": { "label": "Try Video Search", "url": "/videoSearch" }
+          }
         }
       ]
     }
