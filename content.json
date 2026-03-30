@@ -17,6 +17,10 @@
         "primary": {
           "label": "Learn more",
           "url": "https://www.een.com"
+        },
+        "secondary": {
+          "label": "Go to Admin",
+          "url": "/admin"
         }
       }
     },
@@ -29,7 +33,13 @@
       "bullets": [
         "New dashboard with real-time ROI metrics",
         "Export reports in PDF and CSV formats"
-      ]
+      ],
+      "cta": {
+        "primary": {
+          "label": "Open Dashboard",
+          "url": "/dashboard"
+        }
+      }
     },
     {
       "id": "video-search",
@@ -40,7 +50,17 @@
       "bullets": [
         "New search attributes: color, direction, speed",
         "Faster results with improved indexing"
-      ]
+      ],
+      "cta": {
+        "primary": {
+          "label": "Try Video Search",
+          "url": "/videoSearch"
+        },
+        "secondary": {
+          "label": "Open in History Browser",
+          "url": "/history?ids=:cameraId"
+        }
+      }
     },
     {
       "id": "last",
