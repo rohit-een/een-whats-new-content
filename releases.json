@@ -16,8 +16,7 @@
             "Simplified admin user provisioning"
           ],
           "cta": {
-            "primary": { "label": "Learn more", "url": "https://www.een.com" },
-            "secondary": { "label": "Go to Admin", "url": "/admin" }
+            "primary": { "label": "Learn more", "url": "https://www.een.com" }
           }
         },
         {
@@ -31,8 +30,7 @@
             "Export reports in PDF and CSV formats"
           ],
           "cta": {
-            "primary": { "label": "Open Dashboard", "url": "/dashboard" },
-            "secondary": { "label": "Try in Live View", "url": "/video/:cameraId" }
+            "primary": { "label": "Try in Live View", "url": "/video/:cameraId" }
           }
         },
         {
@@ -46,8 +44,7 @@
             "Faster results with improved indexing"
           ],
           "cta": {
-            "primary": { "label": "Try Video Search", "url": "/videoSearch" },
-            "secondary": { "label": "Open in History Browser", "url": "/history?ids=:cameraId" }
+            "primary": { "label": "Try Video Search", "url": "/videoSearch" }
           }
         }
       ]
