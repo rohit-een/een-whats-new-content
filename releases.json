@@ -31,7 +31,8 @@
             "Export reports in PDF and CSV formats"
           ],
           "cta": {
-            "primary": { "label": "Open Dashboard", "url": "/dashboard" }
+            "primary": { "label": "Open Dashboard", "url": "/dashboard" },
+            "secondary": { "label": "Try in Live View", "url": "/video/:cameraId" }
           }
         },
         {
@@ -66,7 +67,7 @@
             "Improved trigger conditions"
           ],
           "cta": {
-            "primary": { "label": "Open Automations", "url": "/automations" }
+            "primary": { "label": "Open Automations", "url": "/automations/rules" }
           }
         },
         {
